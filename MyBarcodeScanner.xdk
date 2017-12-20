@@ -5,7 +5,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "jsapp/sample-barcode-scanner/sample.zip",
       "projectGuid": "08e1593e-3ff7-42b2-9630-9e89efc9e24d",
-      "lastModifiedDate": 1488564349064,
+      "lastModifiedDate": 1489604748191,
       "creationDate": 1488563497912
     },
     "XDK-app-designer": "false",
@@ -207,7 +207,7 @@
         "runtime_": "W3C",
         "name_": "WebApp",
         "preferences_": {},
-        "isActive_": false,
+        "isActive_": true,
         "certificateId_": "",
         "appName_": "Barcode-Scanner",
         "appID_": "not.yet.specified",
